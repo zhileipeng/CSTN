@@ -3,7 +3,7 @@ from keras import backend as K
 import tensorflow as tf
 # from Dataset import channel_wise_max
 
-_MAX = 241.0
+_MAX = 391.0
 
 
 
